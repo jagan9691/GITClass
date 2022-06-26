@@ -17,4 +17,19 @@ public class Class1 {
 
 	}
 
+	private void method11() {
+		System.out.println("4");
+
+	}
+
+	private void method12() {
+		System.out.println("5");
+
+	}
+
+	private void method13() {
+		System.out.println("6");
+
+	}
+
 }
