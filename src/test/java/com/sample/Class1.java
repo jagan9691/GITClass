@@ -50,4 +50,7 @@ public class Class1 {
 
 	}
 
+	private void method22() {
+		System.out.println(22);
+	}
 }
